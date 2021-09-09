@@ -240,6 +240,6 @@ void Main_Menu::on_Button_save_set_clicked()
 
 void Main_Menu::on_Button_initialization_clicked()
 {
-    ui->LE_IP->setText("81.69.223.92");
+    ui->LE_IP->setText("118.31.247.104");
     ui->LE_PT->setText("4396");
 }
